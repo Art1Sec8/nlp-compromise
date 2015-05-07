@@ -1,7 +1,7 @@
 #NLP Compromise
-## Natural language processing - a meteor wrapper for the npm nlp_compromise package
+## Natural language processing - a meteor package for the nlp_compromise
 
-This meteor package is just a meteor wrapper around the npm NLP_compromise pacakge written by [Spencer Kelly](https://github.com/spencermountain). The full code for nlp_compromise can be found [here](https://github.com/spencermountain/nlp_compromise).
+This meteor package makes nlp_compromise (nlp.js) available on both the client and server. NLP_compromise package written by [Spencer Kelly](https://github.com/spencermountain). The full code for nlp_compromise can be found [here](https://github.com/spencermountain/nlp_compromise).
 
 ##Installation
 ```bash
